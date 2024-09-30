@@ -1,0 +1,7 @@
+Account Number: 285824
+Number of service connections = 2
+Number of premium channels = 1
+Amount Due = RM95.0Account Number: 12345
+Number of service connections = 3
+Number of premium channels = 2
+Amount Due = RM115.0

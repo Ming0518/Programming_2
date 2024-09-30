@@ -1,0 +1,3 @@
+inheritanceabstract.Shape
+inheritanceabstract.Rectangle
+inheritanceabstract.Triangle
